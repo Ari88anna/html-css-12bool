@@ -20,11 +20,11 @@
 
 .debug .container > [class*="col-"] .container {
     height: 100%;
+    padding: 2px;
 }
 
 .debug .container > [class*="col-"] .container [class*="col-"] {
     background-color: lightcoral;
-    height: 100%;
 }
 
 /* FRAMEWORK */
